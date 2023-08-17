@@ -1,5 +1,0 @@
-{{#user}}
-Name: Saikot Roy
-Skills: HTML, CSS, JS, React.js, Next.js, Express.js, Node.js, MongoDB
-Email: saikotroydev@gmail.com
-{{/user}}
